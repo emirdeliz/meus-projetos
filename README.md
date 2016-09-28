@@ -2,20 +2,31 @@
 
 ## REACT
 [react-es6-jest-enzyme-boilerplate](https://github.com/emirdeliz/react-es6-jest-enzyme-boilerplate)
+
 [react-es6-redux-crud](https://github.com/emirdeliz/react-es6-redux-crud)
+
 [react-es6-site-responsible](https://github.com/emirdeliz/react-es6-site-responsible)
+
 [react-material-webpack-firebase](https://github.com/emirdeliz/react-material-webpack-firebase)
+
 [react-es6-e2e-mocha-boilerplate](https://github.com/emirdeliz/react-es6-e2e-mocha-boilerplate)
 
 ## ANGULAR
 
 [angular-protractor-gulp](https://github.com/emirdeliz/angular-protractor-gulp)
+
 [angular-scroll-infinito-rest-datafactory](https://github.com/emirdeliz/angular-scroll-infinito-rest-datafactory)
+
 [angular-print-window](https://github.com/emirdeliz/angular-print-window)
+
 [angular-es6-mocha](https://github.com/emirdeliz/angular-es6-mocha)
+
 [angular-es6-github](https://github.com/emirdeliz/angular-es6-github)
+
 [angular-es6-fleet](https://github.com/emirdeliz/angular-es6-fleet)
+
 [angular-es6-calculadora](https://github.com/emirdeliz/angular-es6-calculadora)
+
 [angular-google-maps](https://github.com/emirdeliz/angular-google-maps)
 
 ## ANGULAR 2
