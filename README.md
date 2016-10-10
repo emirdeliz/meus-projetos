@@ -1,5 +1,3 @@
-# Os projetos referenciados nesse repositório são utilizados para estudo
-
 ## REACT
 [react-es6-jest-enzyme-boilerplate](https://github.com/emirdeliz/react-es6-jest-enzyme-boilerplate)
 
