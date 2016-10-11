@@ -9,6 +9,8 @@
 
 [react-es6-e2e-mocha-boilerplate](https://github.com/emirdeliz/react-es6-e2e-mocha-boilerplate)
 
+[react-es6-chart](https://github.com/emirdeliz/react-es6-chart)
+
 ## ANGULAR
 
 [angular-protractor-gulp](https://github.com/emirdeliz/angular-protractor-gulp)
